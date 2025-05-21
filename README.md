@@ -16,5 +16,5 @@ I wanted to learn more about transistors and came across a pretty cool design on
 ## Images
 
 ![image](https://github.com/user-attachments/assets/a672fb8b-5a2e-4677-b946-867fdb111a9e)
-![image](https://github.com/user-attachments/assets/e3665d5b-96ac-4149-a26f-19ec99e96a0e)
+![image](https://github.com/user-attachments/assets/8d42e330-5e26-4434-9c3c-4394abd72645)
 ![image](https://github.com/user-attachments/assets/e2325fd9-ed05-4464-b736-f27d5efd1299)
